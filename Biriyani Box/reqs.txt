@@ -1,0 +1,9 @@
+To Do...
+1. ITEM DEPLETION ITEM REMOVAL
+1b. Output Structural Improvement
+2. Update Inventory.txt for Cancelation and Updating Orders
+3. New Menu Item Capability in Admin
+4. Customer Accounting System
+    "Sign in or sign in as guest #before main menu" 
+    "create user.files"
+        "name address cc details username password (ECRIPYT)"    
